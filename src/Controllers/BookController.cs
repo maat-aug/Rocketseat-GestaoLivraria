@@ -37,7 +37,7 @@ namespace Rocketseat_Gestao_Livraria.Controllers
 
         [HttpPut("{id}")]
         [ProducesResponseType(typeof(Book), StatusCodes.Status204NoContent)]
-        [ProducesResponseType(typeof(), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
 
 
         public IActionResult Edit([FromRoute] long idSearch, [FromBody] RequestBookJson request)
@@ -56,11 +56,11 @@ namespace Rocketseat_Gestao_Livraria.Controllers
         }
         [HttpDelete]
         [ProducesResponseType(typeof(Book), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         public IActionResult Remove([FromRoute] long idSearch)
         {
             var bookToDelete = books.FirstOrDefault(b => b.Id == idSearch);
-            
+
             if (bookToDelete == null)
             {
                 return NotFound();
