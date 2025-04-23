@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\Rocketseat Gestao Livraria.csproj": {}
+    "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\Rocketseat Gestao Livraria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\Rocketseat Gestao Livraria.csproj": {
+    "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\Rocketseat Gestao Livraria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\Rocketseat Gestao Livraria.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\Rocketseat Gestao Livraria.csproj",
         "projectName": "Rocketseat Gestao Livraria",
-        "projectPath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\Rocketseat Gestao Livraria.csproj",
+        "projectPath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\Rocketseat Gestao Livraria.csproj",
         "packagesPath": "C:\\Users\\matheus.teixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus.teixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",

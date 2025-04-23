@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KG0Z4t369Li+dX4oqvseBVi5eCgVA6aAQpFyt9cPUSN/5D586y3nww/KsFRnFriIlZkE/BMUC4go7VinYe6B/g==",
+  "dgSpecHash": "5KKZYsnTMXoHRiTnZL8mr0kgusf+m9BfCR8HHANTbyYrPViYwT6HPKYgFJ+MS6hv7aRbGf2qcRtWBp3tEGFwEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Teste\\Rocketseat Gestao Livraria.csproj",
+  "projectFilePath": "C:\\Users\\matheus.teixeira\\OneDrive - GRUPO ZEMA\\Área de Trabalho\\code\\c#\\Rocketseat Gestao Livraria\\Rocketseat Gestao Livraria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.teixeira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\matheus.teixeira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
