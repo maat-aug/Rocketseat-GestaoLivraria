@@ -1,0 +1,32 @@
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\appsettings.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Rocketseat Gestao Livraria.exe
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Rocketseat Gestao Livraria.deps.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Rocketseat Gestao Livraria.runtimeconfig.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Rocketseat Gestao Livraria.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Rocketseat Gestao Livraria.pdb
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.csproj.AssemblyReference.cache
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.AssemblyInfoInputs.cache
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.AssemblyInfo.cs
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.csproj.CoreCompileInputs.cache
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets\msbuild.Rocketseat Gestao Livraria.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets\msbuild.build.Rocketseat Gestao Livraria.props
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rocketseat Gestao Livraria.props
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rocketseat Gestao Livraria.props
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\scopedcss\bundle\Rocketseat Gestao Livraria.styles.css
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.csproj.CopyComplete
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\refint\Rocketseat Gestao Livraria.dll
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.pdb
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\Rocketseat Gestao Livraria.genruntimeconfig.cache
+C:\Users\matheus.teixeira\OneDrive - GRUPO ZEMA\Área de Trabalho\code\c#\Teste\obj\Debug\net8.0\ref\Rocketseat Gestao Livraria.dll

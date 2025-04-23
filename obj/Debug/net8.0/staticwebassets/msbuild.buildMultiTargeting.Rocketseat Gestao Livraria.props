@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rocketseat Gestao Livraria.props" />
+</Project>
